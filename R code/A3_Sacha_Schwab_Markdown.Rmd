@@ -117,7 +117,7 @@ plot(data.clean$unemp_rate, type = "S", main = "Unemployment Rate Australia 1981
 \newline
 After major peaks in the 1980s and 1990s (as seen in the plot above) due to different reasons (see Fahrer and Heath), the unemployment rate from 1999 - 2019 fluctuated at around 6.9 and 4.2 percent.
 
-My online and literature showed that, among many, some of the general factors leading to non-seasonal changes in unemployment in Australia during 1999 - 2019 are (a) structural events in industries that have a significance in males (e.g. mining industry) or female workers; (b) changes in flexibility of work arrangements; (c) changes in full-time education of young people (Gilfillan 2016), (d) general factors influencing the Australian economy such as commodity prices, exports, secondary effects like inflation deriving from decrease in employment and subsequent restraints in wage growth, real estate prices (Robinson 2015).
+My online and literature search showed that, among many, some of the general factors leading to non-seasonal changes in unemployment in Australia during 1999 - 2019 are (a) structural events in industries that have a significance in males (e.g. mining industry) or female workers; (b) changes in flexibility of work arrangements; (c) changes in full-time education of young people (Gilfillan 2016), (d) general factors influencing the Australian economy such as commodity prices, exports, secondary effects like inflation deriving from decrease in employment and subsequent restraints in wage growth, real estate prices (Robinson 2015).
 
 As these reasons are highly diverse, I will briefly reflect the development of the Australian unemployment rate by looking at phases reflecting various economic developments on a macro level.
 
