@@ -1,4 +1,4 @@
-# Forecasting the Australian Unemployment Rate with Machine Learning and Deep Learning: A Learning Curve
+# Deep Learning for Forecasting the Australian Unemployment Rate using Stochastic Gradient Boosted Models (GBM): A Learning Curve
 
 ## Abstract
 
