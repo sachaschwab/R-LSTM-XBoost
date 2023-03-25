@@ -22,3 +22,4 @@ Stochastic Gradient Boosted Models (GBM) with hyperparameters:
 - Loss function: “laplace”
 
 ### [Report with code in R](https://github.com/sachaschwab/R-LSTM-XBoost/blob/master/R%20code/A3_Sacha_Schwab_Markdown.Rmd)
+
